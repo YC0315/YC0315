@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 -->
 ![YC0315's github stats](https://github-readme-stats.vercel.app/api?username=YC0315&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YC0315)](https://github.com/anuraghazra/github-readme-stats)
+
 

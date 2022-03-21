@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi I’m C.Yang! 👋
 
 <!--
 **YC0315/YC0315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
   😄 Welcome to my repository<br>
-  🌱 I’m currently learning visual localization and object pose estimation
+  🌱 I’m currently learning visual localization and object pose estimation<br>
 ![YC0315's github stats](https://github-readme-stats.vercel.app/api?username=YC0315&theme=tokyonight)
 
 

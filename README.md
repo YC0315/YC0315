@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 🔭 Welcome to my repository
 
-
 🌱 I’m currently learning visual localization and object pose estimation
 
 
